@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;web_txmtssM1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Szablony</label>
+			<label index="function1">Pomoc</label>
+			<label index="function2">Importowanie FCE</label>
+			<label index="function3">Edytowanie FCE</label>
+			
+			<label index="informacja_brak_pliku_szablonu">Chcąc zaimportować szablon musisz wybrać plik .html szablonu. Postępuj zgodnie z poniższymi zaleceniami:</label>
+			<label index="informacja_brak_pliku_szablonu_zelecenie_1">Przejdź do listy plików, następnie otwórz folder w, którym znajdują się pliki szablonu. Kliknij lewym przyciskiem myszy na ikonę znajdującą się obok pliku i z menu rozwijanego wybierz opcje "Importuj szablon".</label>
+			<label index="wybierz_strone_import">Wybierz stronę na, której ma być zaimportowany szablon:</label>
+			<label index="wybierz_strone_edycja">Wybierz stronę na, której ma być edytowany szablon:</label>
+			<label index="submit_edycja_szablonu">Wybieram</label>
+
+			
+		</languageKey>
+	</data>
+</T3locallang>

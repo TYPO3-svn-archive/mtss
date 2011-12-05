@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for mtss module cm1</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="title">Import szablon</label>
+			
+			<label index="informacja_brak_pliku_szablonu">Chcąc zaimportować szablon musisz wybrać plik .html szablonu. Postępuj zgodnie z poniższymi zaleceniami:</label>
+			<label index="informacja_brak_pliku_szablonu_zelecenie_1">Przejdź do listy plików, następnie otwórz folder w, którym znajdują się pliki szablonu. Kliknij lewym przyciskiem myszy na ikonę znajdującą się obok pliku i z menu rozwijanego wybierz opcje "Importuj szablon".</label>
+			
+		</languageKey>
+	</data>
+</T3locallang>

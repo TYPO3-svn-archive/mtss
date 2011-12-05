@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for module &quot;web_txmtssM1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="naglowek_start">System szablonów Multimedia Traffic</label>
+			<label index="naglowek_import">Importowanie szablonu</label>
+			<label index="naglowek_edycja">Edytowanie szablonu</label>
+			<label index="title">Szablony</label>
+			
+			<label index="import_szablonu">Importuj szablon</label>
+			<label index="pomoc">Pomoc - instrukcja</label>
+			<label index="edycja_szablonu">Edytuj szablon</label>
+			
+			<label index="error_plik_nie_istnieje">Taki plik nie istnieje lub nie można go otworzyć.</label>
+			<label index="informacja_error_pliku">Problem z otowrzeniem pliku.</label>
+			<label index="informacja_error_pliku_dodatkowego">Plik dodatkowy nie istnieje lub nie można go otworzyć.</label>
+			<label index="informacja_error_pliku_blad">Plik zawiera błąd składniowy, prawdopodobnie jeden z markerów jest źle zamknięty. Jeśli problem powtarza się kolejny raz sprawdź poprawność składni html. %plik% aby edytować plik szablonu.</label>
+			
+			<label index="znaleziono_isconf">Znaleziono plik konfiguracyjny przeznaczony dla tego szablonu. Czy konfiguracja ma być użyta do wygenerowania szablonu?</label>
+			<label index="znaleziono_isview">Znaleziono plik wyglądu przeznaczony dla tego szablonu. Czy wygląd ma być użyty do wygenerowania szablonu?</label>
+			<label index="znaleziono_isimage">Znaleziono plik podglądu przeznaczony dla tego szablonu. Czy podgląd ma być dodany do szablonu?</label>
+			<label index="znaleziono_header">Czy chcesz zaimportować sekcje head z szablonu? (zalecane)</label>
+			<label index="znaleziono_beview">Czy chcesz zaimportować ustawienia wyglądu szablonu dla backendu? (o ile zostały dodane w pliku szblonu). Jeśli chcesz dowiedzieć się więcej o ustawieniach wyglądu dla backendu przejdź do działu Pomoc/Instrukcja.</label>
+
+			<label index="informacja_nadpisywanie">Pamiętaj, że wybierając konfiguracje lub wygląd z pliku możesz nadpisać wygląd lub konfiguracje umieszczoną w szablonie.</label>
+			<label index="podaj_nazwe_szablonu">Podaj unikalną nazwe dla szablonu:</label>
+			<label index="submit_tworzenie_szablonu">Stwórz szablon</label>
+			<label index="informacja_brak_nazwy">Musisz wprowadzić nazwe szablonu, musi mieć minimum 3 znaki i zawierać jedynie litery i liczby.</label>
+			
+			<label index="informacja_create_template">Szablon %nazwa% został stworzony, w razie jakiś pytań prosimy skorzystać z pomocy.</label>
+			<label index="informacja_error_path_template">Ścieżka prowadząca do pliku jest zła.</label>
+			<label index="szablon_istnieje">Ten plik jest używany przez szablon: </label>
+
+			<label index="link_do_przycisku">Link do przycisku:</label>
+			<label index="przycisk">Przycisk:</label>
+			<label index="link">Link:</label>
+
+			<label index="jaki_wrap_in_przycisk">Otoczenie wewnętrzne dla przycisku:</label>
+			<label index="alternatywna_nazwa_przycisku">Alternatywna nazwa przycisku:</label>
+			<label index="tag_class_dla_przycisku">Tag class dla przycisku:</label>
+			<label index="pokaz_podmenu">Pokaż podmenu</label>
+			<label index="nie_pokazuj">Nie pokazuj</label>
+			<label index="wybierz_opcje">Wybierz opcje</label>
+			<label index="tak_pokaz">Tak pokaż</label>
+			<label index="konfiguracja_podmenu">Konfiguracja podmenu:</label>
+			<label index="wyswietl_dla_wszystkich_przyciskow">Wyświetl dla wszystkich przycisków</label>
+			<label index="auto_wyswietl_dla_wszystkich_przyciskow">Automatyczne wyświetl dla wszystkich przycisków</label>
+			<label index="wyswietl_dla_aktywnego_przycisku">Wyświetl dla aktywnego przycisku</label>
+			<label index="kopiowanie_menu_z_podstron">Czy chcesz kopiować to menu ze stron będących rodzicami tej podstrony? (Działa dla pustego menu)</label>	
+			<label index="informacja_error_brak_dostepu">Brak dostępu dla tej strony</label>	
+			
+			<label index="czy_aktualizowac_szablon">Czy chcesz zaktualizować ten szablon?</label>	
+			<label index="submit_aktualizacja_szablonu">Aktualizuj ten szablon</label>	
+			<label index="submit_wracaj">Wracaj</label>	
+			
+			<label index="to_jest_aktualizacja_szablonu">Aktualizujesz swój szablon</label>	
+			<label index="error_brak_szablonu">Taki szablon nie istnieje</label>
+			<label index="error_brak_szablonow">Brak szablonów do wyświetlenia.</label>
+			<label index="error_brak_szablonow_pomoc">Jeśli wyświetlił Ci się ten komunikat użyj rozwijanej listy aby sprecyzować z jakiej strony chcesz wyświetlić szablony.</label>
+
+			<label index="nazwa_www">Nazwa strony:</label>
+			<label index="nazwa_szablonu">Nazwa szablonu:</label>
+			<label index="edytuj_nazwe_szablonu">Edytuj nazwe szablonu:</label>
+			<label index="informacja_update_template">Szablon %nazwa% został zaktualizowany, w razie pytań lub problemó prosimy skorzystać z pomocy.</label>	
+			<label index="przeladuj_strone">Aktualizuj ponownie ten szablon</label>	
+			
+			<label index="wyswietlanie_podmenu">W jaki sposób wyświetlać podmenu</label>
+			<label index="wyswietlanie_w_przycisku">Wyświetlaj w przycisku (styl listy)</label>	
+			<label index="wyswietlanie_auto_w_przycisku">Automatyczne wyświetlanie w przycisku (styl listy)</label>	
+			<label index="szablon_usuniety">Szablon został usunięty</label>	
+			<label index="szablon_uinstall">Szablon został odinstalowany</label>	
+			<label index="szablon_install">Szablon został zainstalowany</label>	
+			<label index="informacja_edycja_liku">%plik% aby edytować ten plik.</label>	
+
+			<label index="nie_pokazuj_podmenu_dla_tego_przycisku">Nie pokazuj podmenu dla tego przycisku:</label>	
+			
+			<label index="wyswietlanie_pod_menu">Wyświetlaj pod menu</label>	
+			<label index="pathway_jestes_tutaj">Jesteś tutaj</label>	
+			<label index="podglad">Podgląd</label>
+			<label index="tytul">Tytuł</label>
+			<label index="opcje">Opcje</label>
+			
+			<label index="plik">Plik szablonu</label>
+			<label index="data">Data</label>	
+			<label index="tak">Tak</label>
+			<label index="nie">Nie</label>
+			<label index="edytuj">Edytuj</label>
+			<label index="usun">Usuń</label>
+			<label index="uinstall">Odinstaluj</label>
+			<label index="install">Instaluj</label>
+			<label index="kliknij_tutaj">Kliknij tutaj</label>
+			
+			
+			<label index="czy_chcesz_usunac_szablon">Czy jesteś pewień, że chcesz usunąć ten szablon?</label>
+			<label index="czy_chcesz_odinstalowac_szablon">Czy chcesz odinstalować szablon?</label>
+			<label index="czy_chcesz_zainstalowac_szablon">Czy chcesz zainstalować szablon?</label>
+			<label index="utworzono">Data utworzenia:</label>
+			<label index="zaktualizowano">Data aktualizacji:</label>
+			<label index="brak_pliku_do_szablonu">Nie znaleziono pliku</label>
+			
+			<label index="informacja_fce">Importujesz ten szablon jako FCE.</label>
+		
+
+			<label index="error_brak_stron">Brak stron</label>
+			<label index="brak_elementow">Brak elementów</label>
+			
+		</languageKey>
+	</data>
+</T3locallang>
